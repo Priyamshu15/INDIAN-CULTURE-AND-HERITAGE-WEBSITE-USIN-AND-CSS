@@ -1,0 +1,105 @@
+* {
+    margin: 5px;
+}
+
+body {
+    background-image: url("https://wallpaperbat.com/img/242709-india-culture-wallpaper-top-free-india-culture-background.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-color: #2c3e50;
+    color: whitesmoke; 
+    font-family: Arial, sans-serif;
+    font-weight: 4000000000000000000000;
+}
+
+h1, h2, h3 {
+    color: whitesmoke;
+}
+
+a {
+    color: whitesmoke; 
+    text-decoration: none;
+}
+
+header {
+    background-color: black;
+    padding: 20px;
+    border-radius: 100px;
+}
+
+h1 {
+    font-size: 24px;
+    margin: 0;
+}
+
+
+nav {
+    background-color: ; 
+    padding: 10px;
+
+
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+li {
+    display: inline;
+    margin-right: 10px;
+}
+
+main {
+    padding: 20px;
+}
+
+section {
+    margin-bottom: 20px;
+}
+
+h2 {
+    font-size: 20px;
+    margin: 0;
+}
+
+p {
+    margin: 0;
+}
+
+select {
+    width: 200px;
+}
+
+div {
+    background-color: rgba(52, 73, 94, 0);
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+h3 {
+    font-size: 18px;
+    margin: 0;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+    margin-top: 10px;
+}
+
+
+footer {
+    background-color: rgba(52, 73, 94, 0);
+    padding: 10px;
+    text-align: center;
+    font-size: 20px;
+    color: #ecf0f1;
+}
+
+img{
+    width:  330px;
+    height: auto;
+}
